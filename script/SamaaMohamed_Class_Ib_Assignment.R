@@ -21,6 +21,6 @@ data$smoker = as.factor(data$smoker)
 data$age = as.numeric(data$age)
 data$bmi = as.numeric(data$bmi)
 
-write.csv(data, "data/patient_info_cleaned.csv", row.names = FALSE)
+write.csv(data, "data/patient_info_cleaned.csv")
 
 
