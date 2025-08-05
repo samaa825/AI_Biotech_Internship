@@ -1,1 +1,1 @@
-"# AI_Biotech_Internship" 
+AI and Omics Research Internship
